@@ -1,14 +1,3 @@
-import java.util.Scanner;
-
-/**
- * Aprende Java con Ejercicios (https://leanpub.com/aprendejava)
- * 
- * Capítulo 7. Arrays
- *
- * Ejercicio 15
- *
- * @author Luis José Sánchez
- */
 public class S71Ejercicio15 {
   public static void main(String[] args) {
 
