@@ -8,7 +8,7 @@ public class S71Ejercicio15 {
       mesa[i] = (int)(Math.random() * 5);
     }
 
-    int clientes; // número de clientes que llegan al restaurante buscando mesa
+    int clientes; // número de documento de clientes que llegan al restaurante buscando mesa
     
     Scanner s = new Scanner(System.in);
     
